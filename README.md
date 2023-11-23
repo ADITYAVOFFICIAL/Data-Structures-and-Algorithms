@@ -10,5 +10,6 @@
 
 |      C++      | C |
 | ------------- | ------------- |
-| Content Cell  | Badsic things  |
-| Content Cell  | Content Cell  |
+| Structures  | Badsic things  |
+| Matrix  | Content Cell  |
+|Heap|Nothing|
